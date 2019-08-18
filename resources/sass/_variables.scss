@@ -1,0 +1,42 @@
+// Body
+$body-bg: #e8e8e8;
+
+// Typography
+$font-family-sans-serif: 'Lato', 'Arial', sans-serif;
+$font-size-base: 14;
+$line-height-base: 1.5;
+$body-color: #565a5a;
+
+// Colors
+$primary: #4d88bb;
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+// Container
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1020px
+);
+
+// Components
+$border-radius: 0;
+$border-color: #ced4da;
+
+// Links
+$link-decoration: none;
+
+// Buttons
+$btn-border-radius: $border-radius;
+
+// Cards
+$card-spacer-x: 2rem;
